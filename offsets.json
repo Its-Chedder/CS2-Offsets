@@ -1,18 +1,23 @@
 {
-    "dwEntityList": "0x24B0258",
-    "dwLocalPlayerPawn": "0x206A9E0",
-    "dwViewMatrix": "0x2310F10",
-    "dwViewAngles": "0x231B968",
-    "dwLocalPlayerController": "0x22F5028",
-    "dwGlobalVars": "0x205F540",
-    "dwGameRules": "0x230EED0",
-    "dwGlowManager": "0x230BCD8",
-    "dwClientState": "0x231B2E0",
-    "dwPlayerPawn": "0x808",
-    "health": "0x32C",
-    "team": "0x3C3",
-    "pos": "0x1290",
-    "name": "0x0",
-    "boneMatrix": "0x18A0",
-    "viewAnglesLocal": "0x1A90"
+  "client.dll": {
+    "dwEntityList": 38470232,
+    "dwLocalPlayerPawn": 33991136,
+    "dwViewMatrix": 36769552,
+    "dwViewAngles": 36813160,
+    "dwLocalPlayerController": 36655144,
+    "dwGlobalVars": 33944896,
+    "dwGameRules": 36761296,
+    "dwGlowManager": 36748504,
+    "dwClientState": 36811488,
+    "dwPlayerPawn": 2104,
+    "health": 812,
+    "team": 963,
+    "pos": 4752,
+    "boneMatrix": 6304,
+    "viewAnglesLocal": 6800
+  },
+  "engine2.dll": {
+    "dwWindowWidth": 9492888,
+    "dwWindowHeight": 9492892
+  }
 }
